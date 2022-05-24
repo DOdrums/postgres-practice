@@ -120,7 +120,7 @@ portal = Game(
 # session.add(dirk_ornee)
 
 # add each instance of our games to our session
-session.add(portal)
+# session.add(portal)
 
 # updating a single record
 # programmer = session.query(Programmer).filter_by(id=11).first()
